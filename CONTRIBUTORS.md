@@ -877,3 +877,10 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+
+Name:  Pulkit Jain(https://github.com/bahubalicoder)
+Place: Jaipur,Rajasthan
+About: Computer Science and Engineering student,Open Source Enthusiast.
+Programming Language: C,Java.
+Email: pulkitnov22@gmail.com
